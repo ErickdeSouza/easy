@@ -1,1 +1,1 @@
-{'run': False, 'mode': '', 'vms': '', 'code': ''}
+{'run': True, 'mode': '', 'vms': '', 'code': ''}
