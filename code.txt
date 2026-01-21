@@ -1,1 +1,1 @@
-{'run': False, 'mode': '', 'vms': '', 'code': ''}
+{"run": true, "mode": "some", "vms": ["git@ssh.osc-fr1.scalingo.com:hr4srnmaa4c63lyqwtle.git"], "code": "IyBFeGVtcGxvCnByaW50KCJIZWxsbyBXb3JsZCIpCg=="}
