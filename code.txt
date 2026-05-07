@@ -1,1 +1,1 @@
-{"site": "https://database-api-two.vercel.app"}
+{"site": "wss://databaseapi-v9i3.onrender.com"}
